@@ -1,0 +1,7 @@
+{
+  "name": "ionictestingHRapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
